@@ -1,1 +1,2 @@
-Hello from Ivan! Another day, another line of code
+Hello from Ivan!
+Another day, another line of code.
